@@ -7,9 +7,7 @@ import (
 	"testing"
 	"time"
 
-	airtable "github.com/fabioberger/airtable-go"
-	"github.com/fabioberger/airtable-go/tests/test_base"
-	"github.com/fabioberger/airtable-go/tests/test_configs"
+	airtable "github.com/strongdm/airtable-go"
 	. "gopkg.in/check.v1"
 )
 
